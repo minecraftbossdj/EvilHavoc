@@ -76,8 +76,8 @@ hash = "23c3ad78a97a4bec1129f515939ef1cfd9833a15948dbaede7cb678c35b2d028"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "275ca17c0de3d568298d54114278ee26af7de78a07b0acfb5f996ee27242352b"
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "df536f068808076c24dac917d86d581886ae5fb912672ec949d9c71a1a7a7fb7"
 metafile = true
 
 [[files]]
@@ -93,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "453e009587d1dc000d03bd5087ecd4e4d0f1f6fa7b49768ef1ee031a4ad624a9"
-metafile = true
-
-[[files]]
-file = "mods/create-factory-logistics.pw.toml"
-hash = "88748a25aea32647c22bd9a5dbfb861302dc5fcc987e2cf7177c78138c2dc925"
 metafile = true
 
 [[files]]
@@ -138,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/create_connected-1.1.13-mc1.21.1.jar"
 hash = "f78002d3f41c30bc478b6e47028f02a20a24fd74ff8c8c22013b83b01fb4b83d"
+
+[[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "d0787f9db4af92152f43c40244becf04180b162b0d10e6263221cf18922e3f6d"
+metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
