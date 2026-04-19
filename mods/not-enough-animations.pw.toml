@@ -1,0 +1,18 @@
+name = "Not Enough Animations"
+filename = "notenoughanimations-neoforge-1.12.2-mc1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "a7713e65d5c5bbda51ef396275869db3f5d675a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7927757
+project-id = 433760
+
+[option]
+optional = true
+default = true
+description = "adds some silly animations"

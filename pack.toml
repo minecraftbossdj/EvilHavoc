@@ -1,0 +1,13 @@
+name = "Evil Havoc"
+author = "minecraftbossdj, Blista__Compact, NullHarp"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "04ea6bffca15b34b6d3e2512a6bd5ed1e9e25f03f0114eec77db3c851641c548"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"
