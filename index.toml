@@ -207,6 +207,11 @@ hash = "f1cec80f06a6bb696ff7250c273e328519944adb6b677dcd2476b428ede02e4e"
 metafile = true
 
 [[files]]
+file = "mods/jade-vs.pw.toml"
+hash = "0e7fb917e32151db98e7e252156d474b1103d4a27342606ef4fac26126f5a535"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "7078b008050dc86f217e6de52ae66a937d8e9a1cd0483000a5ca9e35e540c60f"
 metafile = true
@@ -282,6 +287,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "24251b653079b725cb74ac69f33739c4fd3168cfa157ad043f3eb9c7ffcfee42"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "41bf8eb3eea5e3295036dc267215af9d734e08b2461842e559a1606d228fceca"
 metafile = true
 
 [[files]]
