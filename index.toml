@@ -177,10 +177,6 @@ hash = "efbd8456dd8dc48e13b73a289f2db803664d32c48619deadf9bf51a81930e533"
 metafile = true
 
 [[files]]
-file = "mods/elytracancel-1.0.0.jar"
-hash = "5ab8fc65ae78f46a261d3b78a40ae4a025e669b165d1e653a9c58167185a15fd"
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "1fc8ab07ea6f6abf5252a680f4ee72d7feaa652bc6b17214b1ddc5f5fe4c5d6d"
 metafile = true
@@ -272,6 +268,10 @@ metafile = true
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "bbaa5acb4a63efb00b03a674e3c4490a67da1c24ca9b8d6c43f74a1dee905049"
 metafile = true
+
+[[files]]
+file = "mods/no-elytras-1.0.0-1.21.x.jar"
+hash = "fac87a5ccede116a9f4da66c9db36947c3022c8f945880c79fe7598936bae715"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
