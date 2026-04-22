@@ -3,8 +3,8 @@ filename = "jei-1.21.1-neoforge-19.27.0.340.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "27d0d85e7e32e926fc3664ab6815df5cdabb7941"
+hash-format = "sha256"
+hash = "8aaf547432f1b4958239b036356b910692fe40f858c3073d996f56bbf7c99826"
 mode = "metadata:curseforge"
 
 [update]

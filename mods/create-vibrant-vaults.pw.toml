@@ -3,8 +3,8 @@ filename = "create_vibrant_vaults-0.3.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d0dbdde6318c4dd4ede1d2c091f1a64896ba872a"
+hash-format = "sha256"
+hash = "cebf5d1d1793fbfc2ee25b63d6f929910ad04ff72da5c1a6987d33961708cff1"
 mode = "metadata:curseforge"
 
 [update]

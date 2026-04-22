@@ -3,8 +3,8 @@ filename = "createframed-1.21.1-1.7.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "fc4081b062cdbd84f89cefdaa7cdf0806001630a"
+hash-format = "sha256"
+hash = "36a529c807047a1365a57411328780a58c1889b0eb3b5b57af206dd8244c6da3"
 mode = "metadata:curseforge"
 
 [update]

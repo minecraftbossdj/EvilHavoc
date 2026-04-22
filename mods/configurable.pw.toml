@@ -3,8 +3,8 @@ filename = "configurable-3.4.0+1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9fded285800920d1b4b84b5fcf796d96431fc0b5"
+hash-format = "sha256"
+hash = "4f77d5d3bc4322a30b1171e9dab2bf2fed36f87f1d92ddd7a8017c0b558bcb9b"
 mode = "metadata:curseforge"
 
 [update]

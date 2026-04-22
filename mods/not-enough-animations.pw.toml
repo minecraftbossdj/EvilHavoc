@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/FqqXQToo/notenoughanimations-neoforge-1.12.2-mc1.21.1.jar"
-hash-format = "sha512"
-hash = "6e628eeda247f67d3cbcdba836c6857eec2454eee171dd4bb3a7f6b6235123e2e70ab2c1b222bd2d8e3226c7ef5c4f6b5ad7d05bcaa6f996fa456ca16fa3cd2e"
+hash-format = "sha256"
+hash = "ec941215d8b14ccf2927e5c80304511d6340d6025fec7212fcdb3fb2ef00a61c"
 
 [update]
 [update.modrinth]
@@ -14,5 +14,5 @@ version = "FqqXQToo"
 
 [option]
 optional = true
-default = true
 description = "adds some silly animations"
+default = true

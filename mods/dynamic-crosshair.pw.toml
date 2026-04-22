@@ -3,8 +3,8 @@ filename = "dynamiccrosshair-9.11+1.21.1-neoforge.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "d35cddd8145a68029305b119af571ebf36e9cda5"
+hash-format = "sha256"
+hash = "2259d04512cccce9796e6975483e3ddf48f69678dbf42b7e9cff38da3095f4f0"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 623800
 
 [option]
 optional = true
-default = true
 description = "makes the crosshair more dynamic"
+default = true

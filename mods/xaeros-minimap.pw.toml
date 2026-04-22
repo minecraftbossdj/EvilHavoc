@@ -3,8 +3,8 @@ filename = "xaerominimap-neoforge-1.21.1-25.3.10.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d4828332dd831455429156b6cfa24aa9bd99dd77"
+hash-format = "sha256"
+hash = "b28dd669e17d70be126b887845646ade10f2c9a2aed15a0750e7cc1c760e653d"
 mode = "metadata:curseforge"
 
 [update]

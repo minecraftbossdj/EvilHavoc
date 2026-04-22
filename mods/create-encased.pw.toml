@@ -3,8 +3,8 @@ filename = "Create Encased-1.21.1-1.8-ht2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "957a7ee1741c7a8536bedd401a923d7fb73a7092"
+hash-format = "sha256"
+hash = "d66b7caac3fe29bb95ed6c53c8271d797a2f0cacfc98c8819406bc445783d12c"
 mode = "metadata:curseforge"
 
 [update]

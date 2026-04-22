@@ -3,8 +3,8 @@ filename = "Essential_1-3-10-8_neoforge_1-21-1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "06acabc95a6b2a5fd6ab57d68aea36dc88ce3109"
+hash-format = "sha256"
+hash = "75f4bb9de2aa8e07a3e0402582f32050584e791001fb910d6436e42b3542e854"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 546670
 
 [option]
 optional = true
-default = true
 description = "the essential mod ig"
+default = true

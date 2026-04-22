@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OPNBxiZD/versions/rSq4JTMI/cc_sable-neoforge-1.1.1.jar"
-hash-format = "sha512"
-hash = "7c16e612df27d62e0712c3cc7f4128d5cd13bec49f2f57d1082a7d679a62892736d37f6b39ada0ed82c534809f0123d9c6e5a6712cdc923c8e233724db990faa"
+hash-format = "sha256"
+hash = "bbeb3f4cdfceb4dd5c00b5fa59f5169e9cb9accd06cfece044c130d173d0b82b"
 
 [update]
 [update.modrinth]

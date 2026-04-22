@@ -3,8 +3,8 @@ filename = "lootr-neoforge-1.21.1-1.11.37.118.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "95058da06c16441211619ce46950502fd5ac1f64"
+hash-format = "sha256"
+hash = "1326956204d2509e19b87614223a4b9f3d83823d2a9f595db86b6b569d03111c"
 mode = "metadata:curseforge"
 
 [update]

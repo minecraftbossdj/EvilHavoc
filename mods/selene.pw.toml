@@ -3,8 +3,8 @@ filename = "moonlight-1.21-2.29.33-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24e720753a7abc80f6673cf957c1e74aed52c084"
+hash-format = "sha256"
+hash = "47759081ab26271fed829f17abe1a8aa8ac1a17a111acb3b9255749e35e00f7a"
 mode = "metadata:curseforge"
 
 [update]

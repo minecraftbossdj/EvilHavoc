@@ -3,8 +3,8 @@ filename = "emi-1.1.22+1.21.1+neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cbbd038194cd63249db185c53b1d50a1767f80a3"
+hash-format = "sha256"
+hash = "772cf3108900e86e336a42f73ec0dfc2f8d5168840285f4a71fda84ea98859a8"
 mode = "metadata:curseforge"
 
 [update]
