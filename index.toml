@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "60ca241675daf0ffb0c6d7388c92e23a2851e0f673e9ecf25567be5344c3f05e"
+hash = "74f3358e1070f1163d14cb62ee768a389bd758f36b5c21471910e43fbcfacc9e"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "5949f23ff1ffc044634432c5ae27e70eaf4a9f3b0d86ef87f29d3a1f7f54e0b2"
+hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
@@ -295,16 +295,6 @@ hash = "47d390380e9c55e59fba1b139256e74a1396282633146b422d7e5a4b29a83c6f"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark.pw.toml"
-hash = "163e2ab1c064fcbcc98f9d09bcb9dda427cb5405211c400e088959db8ff49875"
-metafile = true
-
-[[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "a58df1cf1acec47a791e91ab0e178a8fb2f16aea26b4de6f882bfc18ed2ffa1c"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "8a7e5606e4fb42469dbb93a4e4e12e5e107020069591ad9f5f0a0ede98809f4b"
 metafile = true
@@ -330,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f3fb01bc9bf0571848f9355700910ac33135ed86113ebeee08cb4e0a59078580"
+hash = "735f0a8e564e8c80c282a7ba97fe77c34edec0402883f7154fd0206572537afe"
 metafile = true
 
 [[files]]
@@ -392,6 +382,10 @@ metafile = true
 file = "mods/toms-peripherals.pw.toml"
 hash = "3153a281cdd98f77971cdabd36c8e2330c2ee99d1226955ecc792b1f6062443d"
 metafile = true
+
+[[files]]
+file = "mods/towed-1.0.0.jar"
+hash = "72df1589b04b288bd7e630553d7f427a855ddabae7fa369dd46bb394806fe878"
 
 [[files]]
 file = "mods/tracks-neoforge-1.21.1-1.0.0.jar"
