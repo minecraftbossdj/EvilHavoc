@@ -3,8 +3,8 @@ filename = "createfisheryindustry-5.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "d858eb38967c2d33f4b85120ea5cf45800967a96a8a439942c62dcb7e302ed8f"
+hash-format = "sha512"
+hash = "f054f91820af787b1bf437f440ee571cf8a25d6d88d45b1800ae71a08aaff12c44363a039719fe0dbef8c0c644cb081a9d14afb1b7f3d09ed7142f1d42fd285e"
 mode = "metadata:curseforge"
 
 [update]

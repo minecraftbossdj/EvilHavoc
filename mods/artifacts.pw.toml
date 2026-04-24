@@ -3,8 +3,8 @@ filename = "artifacts-neoforge-13.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "4a8e1f4d5702937a707861e478829695e432286bcd9e58f5834d82c6d998eea8"
+hash-format = "sha512"
+hash = "4e5ccc2733e2ede833e6c4ae6b44751eab5ac48857055b61fdcbb6434c7d867c17b438eea9f226f6af652ee397f3fb4d7583f263a5d706d730ff7243ace865dc"
 mode = "metadata:curseforge"
 
 [update]

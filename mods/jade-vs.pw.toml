@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/zNKzjsZM/versions/6EnjDln1/Jade-VS-neoforge-1.21.1-2.0.0.jar"
-hash-format = "sha256"
-hash = "24bb0565c63e8647b2a458786b4c6e6831ea1a98c6cb2e6a6e668b2f0f770742"
+hash-format = "sha512"
+hash = "aad55bdac63b9faeb21ebb4dc712863366908c8932adc2f74c19024d3152093292436cc22e6eef7c5e195f56892e899672e96541d0d60f91cf556502cd1aa983"
 
 [update]
 [update.modrinth]

@@ -3,8 +3,8 @@ filename = "open-parties-and-claims-neoforge-1.21.1-0.26.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "a905e737d5ce4e8b98dfd470b4b7dd818e2a3c67091f82f05055e498ed399258"
+hash-format = "sha512"
+hash = "d6532e7dde6ca414b6468521779347b74a7b78bfb664ecbafecf1a3a9b1d8beadc8dcb32c50766742bb37fb1f81a481d3a338c7319cc86f18b2eb17278f8260a"
 mode = "metadata:curseforge"
 
 [update]

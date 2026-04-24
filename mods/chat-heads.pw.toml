@@ -3,8 +3,8 @@ filename = "chat_heads-0.15.1-neoforge-1.21.jar"
 side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "b1ed6a52efa3cb43e4c37e3982bc7b08116302511b8f675346f6aea6d3524e41"
+hash-format = "sha512"
+hash = "779c264a4ad54f9fe462c313ba40968ae7fc206d282d5895c433136d510bfa29a86a3ba32e83bbe819c07fc06e75cf8cb2e4606120d8038b6b24378fd556f11d"
 mode = "metadata:curseforge"
 
 [update]

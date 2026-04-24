@@ -3,8 +3,8 @@ filename = "vista-1.21-3.1.2-neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "3ae155c4c8683f8a357f5136ce79e1ed8e9d4d149673339f44cb4c924b0fc26f"
+hash-format = "sha512"
+hash = "6423ba661980105583155eebf785cd9119a9b890273a7a914af2f5d5a4f907a550b22d8775cbf3a032ee47635e451a8a03d1d0255a1f148fcdc03d9c258264f2"
 mode = "metadata:curseforge"
 
 [update]

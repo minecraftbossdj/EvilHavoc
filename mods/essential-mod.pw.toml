@@ -3,8 +3,8 @@ filename = "Essential_1-3-10-8_neoforge_1-21-1.jar"
 side = "client"
 
 [download]
-hash-format = "sha256"
-hash = "75f4bb9de2aa8e07a3e0402582f32050584e791001fb910d6436e42b3542e854"
+hash-format = "sha512"
+hash = "a1ada47c3361e89b19ddbc7ef8def13fd0f3f946ece87299c8146f5b6cf930808c24b3387d9b1e483f4f0c2b0ae161b467fc01005c985fad3bcd5578c70df33a"
 mode = "metadata:curseforge"
 
 [update]

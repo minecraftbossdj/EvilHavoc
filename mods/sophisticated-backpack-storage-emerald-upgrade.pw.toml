@@ -3,8 +3,8 @@ filename = "sophisticated_emerald_upgrade-1.0.3-NeoForge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "4c11eb4468a2e85ceb1fabd9010fb8528b977099b6579ed6127db669c05aa585"
+hash-format = "sha512"
+hash = "eebf7319cbe1c9840109ddef9c1156b8f8c0b818dfd1464e23c63c883191842979afbabdd5242528171fa306d59f4caee6359c396e1179f049205ab37195cf40"
 mode = "metadata:curseforge"
 
 [update]

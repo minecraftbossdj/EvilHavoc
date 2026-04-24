@@ -3,8 +3,8 @@ filename = "create_optical-0.4.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "ead7de66ebaee60d6bd6ecdaaa29ef1684fbca64a1fe559789762ca2576eceaf"
+hash-format = "sha512"
+hash = "97379b1c2fbc007eaf92b47dd86d2aa0c0b93b92315009079d7d463473e982aad26e81347662068e5dd8222345219dd62410b83555e02b60f0cdfa103311cf24"
 mode = "metadata:curseforge"
 
 [update]
