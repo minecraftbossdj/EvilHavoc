@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/YaZEkFmd/versions/lpaQ5s7q/VS-Sable-HoseConnectors-0.1.1-1.21.1.jar"
-hash-format = "sha512"
-hash = "d10fc693721f3b71437f2bfd32f2cd8126fcddbef8713fbdd6b481d3f987384fc5443ff74c07c0695e35e56eeed2d69c49a4e8c399a6fb367c266ccd8c368804"
+hash-format = "sha1"
+hash = "c71d1d98e34391f091ba3d1782d333f60f10190b"
 
 [update]
 [update.modrinth]
