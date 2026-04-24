@@ -393,6 +393,11 @@ hash = "1728e44d25890836bbbd21e5d58c6518bcd26e1cd7396ea3bf2a73fae614ceed"
 metafile = true
 
 [[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "a1c17a64d5727b2c24e2ec5e06203b546c3c83f63603214d1a5cd957e5c7725f"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "8b675173c43f80b5319d369bc459d3106121c6c7070bccffaed8672ffabd5628"
 metafile = true
