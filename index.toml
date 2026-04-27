@@ -6,6 +6,10 @@ hash = "d30256081e644c2b110654a8cf376ba351c72e79a47189ecb479fee92f20ff56"
 metafile = true
 
 [[files]]
+file = "mods/aeroworks-1.2.2.jar"
+hash = "59871d50ca3af2fdfcab48476c5826557a971c0d0225ddb80655a093cacd051f"
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "7862a18197cfbebb362253ca7c39d73176135816bbec6ee365c04b32f371fc26"
 metafile = true
@@ -171,6 +175,10 @@ metafile = true
 [[files]]
 file = "mods/createbigcannons-5.11.3-dev-mc.1.21.1-build.283.jar"
 hash = "e7055e7d7068a5715dcd39347a173856556c5a68b0319d75914f3e33899487b1"
+
+[[files]]
+file = "mods/createpropulsionsimulated-1.0.3.jar"
+hash = "82e9aa9c7b4c2646bff965f350cf32f0d6ed9957d2ca7cbef14455b5ce6e3de0"
 
 [[files]]
 file = "mods/dcintegration-neoforge-3.0.7-1.21.jar"
