@@ -79,6 +79,10 @@ hash = "288906be5d62ab649b2dbdc1922366b07358744af59d6e0bdefaa2f3a6f70924"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-lift-patch-1.1.0.jar"
+hash = "1c88ad4acec065ded70d991f4788a445b8dbe4b5493d28d62be346b5d7ea3b3e"
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
